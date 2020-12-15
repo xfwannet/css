@@ -1,0 +1,47 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+img{
+	border:0px;
+}
+
+.logo{
+	position:absolute;
+	right:0px;
+	top:0px;
+	z-index:99990;
+	width:34px;
+	height:18px;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";/*IE8*/
+	filter:alpha(opacity=80);/* IE6£¬IE7*/
+	opacity:0.8;/*Opera9.0+£¬Firefox1.5+£¬Chrome*/
+	background-image:url(http://img.ytop8.com/s_images/s_foot_logo.png);
+	background-repeat:no-repeat;
+	background-position:0 0;
+}
+#form1{
+	position:absolute;
+	background-color:#ccc;
+	width:50%;
+	height:90px;
+	z-index:999999;
+	opacity:0.8;
+	display:none;
+}
+#form1 input{
+	width:50px;
+}
+.clear{
+	clear:both;
+	padding:0px;
+	font-size:0px;
+	margin:0px;
+	line-height:0px;
+	height:0px;
+}

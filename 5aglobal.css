@@ -1,0 +1,35 @@
+body{
+margin:0px;
+padding:0px;
+}
+#box ul li:hover{
+border:1px solid red;
+}
+#box li{
+background-color:#fff;
+}
+ul{
+margin:0px;
+padding:0px;
+list-style:none;
+}
+.radius6px{}
+.radius10px{}
+.radius15px{}
+.shadow{}
+
+#form1{
+position:absolute;
+background-color:#ccc;
+width:50%;
+height:90px;
+z-index:999999;
+opacity:0.8;
+display:none;
+}
+#form1 input{
+width:50px;
+}
+.clear{
+CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 0px; PADDING-TOP: 0px; HEIGHT: 0px;
+}

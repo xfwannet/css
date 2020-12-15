@@ -1,0 +1,41 @@
+body{
+margin:0px;
+padding:0px;
+}
+#box{
+background-color:#fff;
+}
+.num{
+float:left;
+width:17px;
+height:17px;
+margin:6px 5px 0px 10px;
+line-height:16px;
+font-size:10px;
+background-color:#858585;
+color:#fff;
+-moz-border-radius: 10px;/* Gecko browsers */
+-webkit-border-radius:10px;/* Webkit browsers */
+border-radius:8px;/* W3C syntax */
+text-align:center;
+}
+ul{
+margin:0px;
+padding:0px;
+list-style:none;
+}
+#form1{
+position:absolute;
+background-color:#ccc;
+width:50%;
+height:90px;
+z-index:999999;
+opacity:0.8;
+display:none;
+}
+#form1 input{
+width:50px;
+}
+.clear{
+CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 0px; PADDING-TOP: 0px; HEIGHT: 0px;
+}

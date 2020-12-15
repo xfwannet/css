@@ -1,0 +1,49 @@
+body{
+margin:0px;
+padding:0px;
+}
+#box ul li:hover{
+border:1px solid red;
+}
+#box li{
+background-color:#fff;
+}
+ul{
+margin:0px;
+padding:0px;
+list-style:none;
+}
+.radius6px{}
+.radius10px{}
+.radius15px{}
+.shadow{}
+.logo{
+position:absolute;
+right:3px;
+top:0px;
+z-index:99990;
+
+width:34px;
+height:18px;
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";/*IE8*/
+filter:alpha(opacity=80);/* IE6£¬IE7*/
+opacity:0.8;/*Opera9.0+£¬Firefox1.5+£¬Chrome*/
+background-image:url(http://img.ytop8.com/s_images/s_foot_logo.png);
+background-repeat:no-repeat;
+background-position:0 0;
+}
+#form1{
+position:absolute;
+background-color:#ccc;
+width:50%;
+height:90px;
+z-index:999999;
+opacity:0.8;
+display:none;
+}
+#form1 input{
+width:50px;
+}
+.clear{
+CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 0px; PADDING-TOP: 0px; HEIGHT: 0px;
+}
