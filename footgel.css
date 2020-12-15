@@ -1,0 +1,9 @@
+ .footer_kf { height:100px; width:100%; position:fixed; bottom:0; left:0; z-index:8888;}
+.fd_box { height:117px; position:fixed; width:100%; bottom:0; left:0; z-index:666;}
+.fd_box01 { width:100%; height:70px; position:fixed; bottom:0; background:url(https://cdn.jsdelivr.net/gh/xfwannet/css@master/zy_img09.png);}
+.fd_box02 { margin:0 auto; width:1000px; height:117px; position:relative; bottom:0; z-index:888;}
+.fd_gb { width:20px; height:20px; margin:10px 0 0 0; position:absolute; right:0; top:0;}
+.fd_tu { width:936px; height:145px; position:absolute; bottom:18px; left:0;}
+.fd_left { display:block; width:110px; height:100px; position:fixed; left:0; bottom:25%; background:url(https://cdn.jsdelivr.net/gh/xfwannet/css@master/gelcelan002.gif) no-repeat left top;}
+.yqlj_box a { display:block; float:left; padding:0 10px; height:26px; line-height:26px; color:#666; margin:0 10px 5px 5px}
+.yqlj_box a:hover { color:#f31c1c;}
