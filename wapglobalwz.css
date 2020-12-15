@@ -1,0 +1,33 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+img{
+	border:0px;
+}
+
+#form1{
+	position:absolute;
+	background-color:#ccc;
+	width:50%;
+	height:90px;
+	z-index:999999;
+	opacity:0.8;
+	display:none;
+}
+#form1 input{
+	width:50px;
+}
+.clear{
+	clear:both;
+	padding:0px;
+	font-size:0px;
+	margin:0px;
+	line-height:0px;
+	height:0px;
+}
