@@ -1,0 +1,251 @@
+        body,
+        div,
+        em,
+        form,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        img,
+        input,
+        li,
+        ol,
+        p,
+        pre,
+        textarea,
+        ul {
+            margin: 0;
+            padding: 0
+        }
+
+        body {
+            font: 12px/1.75 Tahoma, Arial;
+            color: #000;
+            background-color: #fff
+        }
+
+        li,
+        ul {
+            list-style-type: none
+        }
+
+        img {
+            border: 0
+        }
+
+        .jdAdFs14 {
+            font-size: 14px
+        }
+
+        .yh {
+            font-family: "Microsoft Yahei"
+        }
+
+        .yh18 {
+            font: 18px "Microsoft Yahei"
+        }
+
+        .jdAdCred {
+            color: #c91521
+        }
+
+        a {
+            color: #006a92;
+            text-decoration: none
+        }
+
+        a:hover {
+            text-decoration: underline
+        }
+
+        a:focus {
+            outline: 0
+        }
+
+        .clear {
+            *zoom: 1
+        }
+
+        .clear:after,
+        .clear:before {
+            content: " ";
+            display: table
+        }
+
+        .clear:after {
+            clear: both
+        }
+
+        .jdAdPn {
+            position: relative;
+            *zoom: 1;
+            height: 250px;
+            width: 320px
+        }
+
+        .jdAdPn .jdAdInner {
+            border: 1px solid #eee;
+            position: relative;
+            *zoom: 1
+        }
+
+        .jdAdPn .jdAdLogo {
+            position: relative;
+            height: 20px;
+            background-color: #c81623;
+            text-align: center;
+            margin: -1px -1px 0;
+            overflow: hidden
+        }
+
+        .jdAdLogo img {
+            position: absolute;
+            left: 0;
+            top: 50%;
+            height: 20px;
+            transform: translate(0, -50%);
+        }
+
+        .jdAdPn .jdAdCol {
+            height: 228px;
+            position: relative;
+            overflow: hidden;
+            *zoom: 1
+        }
+
+        .jdAdPn .jdAdCont .jdContInner ul {
+            position: absolute;
+            bottom: 0;
+            left: 3px;
+            height: 22px;
+            width: 280px;
+            background: url("https://cdn.jsdelivr.net/gh/xfwannet/css@master/53ad0264Nfbd1bc7e.png") 1px -122px no-repeat #fff
+        }
+
+        .jdAdPn .jdAdCont .jdContInner li {
+            float: left;
+            width: 125px;
+            height: 22px;
+            line-height: 22px;
+            font-family: "Microsoft Yahei"
+        }
+
+        .jdAdPn .jdAdCont .jdContInner .jdAdCover {
+            position: absolute;
+            left: 0;
+            top: 0;
+            z-index: 5
+        }
+
+        .jdAdPn .jdAdCont .jdContInner .jdAdCover img {
+            display: block;
+            width: 280px;
+            height: 230px
+        }
+
+        .jdAdPn .jdAdCont .jdContInner .jdAdPrice {
+            width: 102px;
+            margin-left: 2px;
+            word-wrap: break-word;
+            word-break: normal;
+            overflow: hidden;
+            font-size: 12px;
+            color: #fff;
+            text-indent: 5px
+        }
+
+        .jdAdPn .jdAdCont .jdContInner .jdAdLeft {
+            float: left;
+            color: #fff
+        }
+
+        .jdAdPn .jdAdCont .jdContInner .jdAdName {
+            overflow: hidden
+        }
+
+        .jdAdPn .jdAdCont .jdContInner .jdAdPromo {
+            float: left;
+            display: inline;
+            margin-left: 5px;
+            margin-bottom: 3px
+        }
+
+        .jdAdPn .jdAdCont .jdContInner .jdAdPromo div {
+            float: left;
+            margin-right: 5px;
+            padding: 0 2px;
+            background-color: #E4393C;
+            color: #fff;
+            line-height: 22px;
+            font-family: arial, \5b8b\4f53;
+            font-size: 12px;
+            font-weight: 400
+        }
+
+        .jdAdPn .jdAdCont .jdAdSubTag {
+            float: left;
+            display: inline;
+            margin-left: 5px;
+            margin-top: 5px
+        }
+
+        .jdAdPn .jdAdCont .jdAdImg {
+            text-align: left;
+            height: 208px;
+            overflow: hidden;
+            margin: 0 21px;
+            padding: 3px 0 0 3px
+        }
+
+        .jdAdPn .jdAdCont .jdAdImg img {
+            height: 208px
+        }
+
+        .jdAdPn .jdAdList {
+            position: absolute;
+            padding-left: 10px;
+            height: 20px;
+            top: 0;
+            right: 20px;
+            z-index: 3
+        }
+
+        .jdAdPn .jdAdList li {
+            margin-top: 11px;
+            width: 22px;
+            height: 22px;
+            line-height: 22px;
+            overflow: hidden;
+            text-align: center;
+            cursor: pointer;
+            color: #999
+        }
+
+        .jdAdPn .jdAdList li .jdAdLine {
+            height: 22px;
+            background: url("https://cdn.jsdelivr.net/gh/xfwannet/css@master/53ad0264Nfbd1bc7e.png") 0 -22px
+        }
+
+        .jdAdPn .jdAdList .select .jdAdLine {
+            background: url("https://cdn.jsdelivr.net/gh/xfwannet/css@master/53ad0264Nfbd1bc7e.png");
+            color: #fff
+        }
+
+        .jdAdPn .jdAbLogoBot {
+            display: inline-block;
+            position: absolute;
+            bottom: 1px;
+            right: 1px;
+            width: 18px;
+            height: 18px;
+            overflow: hidden;
+            line-height: 999px;
+            background: url("https://cdn.jsdelivr.net/gh/xfwannet/css@master/rBEhVFJYrDAIAAAAAAAHoRFcOGsAAECrwP_uYQAAAe5174.png") top left no-repeat;
+            z-index: 11
+        }
+
+        .jdAdPn .jdAbLogoBot:hover {
+            width: 75px
+        }

@@ -1,0 +1,264 @@
+body,
+        div,
+        form,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        img,
+        input,
+        li,
+        ol,
+        p,
+        pre,
+        textarea,
+        ul {
+            margin: 0;
+            padding: 0
+        }
+
+        body {
+            font: 12px/1.75 Tahoma, Arial;
+            color: #000;
+            background-color: #fff
+        }
+
+        li,
+        ul {
+            list-style-type: none
+        }
+
+        img {
+            border: 0
+        }
+
+        .jdAdFs14 {
+            font-size: 14px
+        }
+
+        .yh {
+            font-family: "Microsoft Yahei"
+        }
+
+        .yh18 {
+            font: 18px "Microsoft Yahei"
+        }
+
+        .yh14 {
+            font: 12px "Microsoft Yahei";
+            padding-top: 4px
+        }
+
+        .jdAdCred {
+            color: #c91521
+        }
+
+        a {
+            color: #006a92;
+            text-decoration: none
+        }
+
+        a:hover {
+            text-decoration: underline
+        }
+
+        a:focus {
+            outline: 0
+        }
+
+        .jdAdW644 {
+            width: 760px;
+        }
+
+        .jdAdPn {
+	position: relative;
+            *zoom: 1;
+	height: 95px;
+        }
+
+        .jdAdPn .jdContInner {
+            height: 95px;
+            overflow: hidden;
+            background: #fff
+        }
+
+        .jdAdPn .jdAdInner {
+            padding-left: 95px
+        }
+
+        .jdAdPn .jdAdLogo {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100px;
+            height: 95px;
+            overflow: hidden;
+            background-color: #c91521
+        }
+
+        .jdAdPn .jdAdLogo a {
+            display: block;
+            text-align: center
+        }
+
+        .jdAdPn .jdAdLogo img {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .jdAdPn .jdAdCol {
+            width: 33.2%;
+            *width: 49.99%;
+            position: relative;
+            float: left;
+            height: 95px
+        }
+
+        .jdAdPn .jdAdCont {
+            overflow: hidden;
+            padding-right: 20px;
+            font-family: "Microsoft Yahei";
+            height: 95px
+        }
+
+        .jdAdPn .jdAdCont .jdAdPrice {
+            word-wrap: break-word;
+            word-break: normal;
+            overflow: hidden
+        }
+
+        .jdAdPn .jdAdCont .jdAdName {
+            height: 34px;
+            line-height: 17px;
+            overflow: hidden
+        }
+
+        .jdAdPn .jdAdCont ul {
+		/*¼ä¸ô*/
+            margin: 6px 0 0 10px;
+            float: left;
+            display: inline;
+            overflow: hidden;
+            /* width: 71.5px */
+            width: 45.5px
+        }
+
+        .jdAdPn .jdAdCont li {
+            height: 24px;
+            word-wrap: break-word;
+            word-break: normal;
+            _line-height: 18px
+        }
+
+        .jdAdPn .jdAdCont li .tag_title {
+            color: #fff;
+            background: #e4393c;
+            padding: 2px 2px 1px;
+            _margin-bottom: 7px;
+            line-height: 12px;
+            margin-right: 5px;
+            display: inline-block;
+            *display: inline;
+            font-weight: 100;
+            *zoom: 1
+        }
+
+        .jdAdPn .jdAdCont .font-wei {
+            padding-top: 4px;
+            font-weight: 700
+        }
+
+        .jdAdPn .jdAdCont .hei_20 {
+            height: 20px
+        }
+
+        .jdAdPn .jdAdCont .jdAdImg {
+            float: left;
+            display: inline;
+            width: 95px;
+            height: 95px;
+            margin-left: 5px;
+            overflow: hidden;
+            text-align: center
+        }
+
+        .jdAdPn .jdAdCont .jdAdImg img {
+            display: inline-block;
+            width: 95px;
+            height: 95px
+        }
+
+        .jdAdPn .jdAdCont .jdAdCover {
+            position: absolute;
+            left: 0;
+            top: 0
+        }
+
+        .jdAdPn .jdAdCont .jdAdCover img {
+            width: 189.5px;
+            height: 95px
+        }
+
+        .jdAdPn .jdAdList {
+            position: absolute;
+            top: 0px;
+            right: -3px;
+            width: 68px;
+            z-index: 3
+        }
+
+        .jdAdPn .jdAdList li {
+            height: 30.67px;
+            line-height: 30.67px;
+            overflow: hidden;
+            background-color: #e4e3e3;
+            border-bottom: 1px solid #fff;
+            text-align: center;
+            cursor: pointer;
+            vertical-align: text-top
+        }
+
+        .jdAdPn .jdAdList li a {
+            color: #000
+        }
+
+        .jdAdPn .jdAdList .select {
+            background-color: #c91521
+        }
+
+        .jdAdPn .jdAdList .select a {
+            color: #fff
+        }
+
+        .jdAdPn .jdAbLogoBot {
+            display: inline-block;
+            position: absolute;
+            bottom: 1px;
+            right: 0;
+            width: 18px;
+            height: 18px;
+            overflow: hidden;
+            line-height: 999px;
+            top right no-repeat;
+            z-index: 11
+        }
+
+        .jdAdPn .jdAbLogoBot:hover {
+            width: 75px;
+          
+        }
+
+        .jdAdLogo a {
+            width: 95px;
+            height: 95px;
+        }
+
+        .jdAdLogo a img {
+            display: block;
+            width: 100%;
+            margin: auto;
+        }
