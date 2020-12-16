@@ -1,0 +1,17 @@
+/* CSS Document */
+body{background:#FFF;}
+a:hover{text-decoration:underline}
+a:active{outline:none}
+img{ border:none;}
+
+.content{margin:0 auto;background:#202020;padding:0px 0px;width:998px}
+.ad_left,.ad_right{display:block;position:fixed;width:445px;height:865px;top: 0;text-decoration:none;outline:0}
+.ad_left{margin:0 0 0 -460px}
+.ad_right{margin:0 0 0 1020px}
+.ad_midd{width:1002px;margin:0 auto;overflow:hidden;height:300px;position:relative;clear:both}
+.contentad{width:982px;padding:0 10px;margin:0 auto}
+
+.btm{ margin:30px auto}
+.btm p{ font:normal 12px/24px 'Microsoft YaHei'; text-align:center}
+
+
