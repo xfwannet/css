@@ -7,11 +7,11 @@ $(document).ready(function () {
                 "response": {
                     "ios": {
                         "status": 1,
-                        "href": ["http://jy.mii5.com/voddown.html"]
+                        "href": ["http://love.mii5.com/voddown.html"]
                     },
                     "android": {
                         "status": 1,
-                        "href": ["http://jy.mii5.com/voddown.html"]
+                        "href": ["http://love.mii5.com/voddown.html"]
                     },
                     "pwa": {
                         "status": 1,
